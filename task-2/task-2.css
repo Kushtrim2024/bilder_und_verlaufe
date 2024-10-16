@@ -1,4 +1,9 @@
 body {
+    background: linear-gradient(gold,rgba(0,0,0,0.5), #000), url("/../assets/background-sunset.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
     height: 100vh;
     margin: 0;
 }
